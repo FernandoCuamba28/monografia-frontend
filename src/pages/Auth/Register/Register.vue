@@ -3,7 +3,7 @@
     <b-container>
       <h5 class="auth-logo">
         <i class="fa fa-circle text-gray"></i>
-       Connect Plus
+       Connect Beta
         <i class="fa fa-circle text-warning"></i>
       </h5>
       <Widget class="widget-auth mx-auto" title="<h3 class='mt-0'>Crie uma conta</h3>" customHeader>

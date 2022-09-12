@@ -10,7 +10,7 @@
         <router-view />
       </transition>
       <footer class="contentFooter">
-         - Made by <a href="https://connectplus.co.mz" rel="nofollow noopener noreferrer" target="_blank">Connect Plus</a>
+         - Made by <a href="https://connectbeta.co.mz" rel="nofollow noopener noreferrer" target="_blank">Connect Beta</a>
         </footer>
     </v-touch>
   </div>

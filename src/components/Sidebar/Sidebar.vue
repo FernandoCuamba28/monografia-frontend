@@ -6,7 +6,7 @@
         @mouseleave="sidebarMouseLeave"
     >
       <header class="logo">
-        <router-link to="/app/estatistica"><span class="primary-word"><i class="far fa-user-clock ml-3"> </i></span> <span class="secondary-word"> Connect Plus</span></router-link>
+        <router-link to="/app/estatistica"><span class="primary-word"><i class="far fa-user-clock ml-3"> </i></span> <span class="secondary-word"> Connect Beta</span></router-link>
       </header>
       <!-- <h5 class="navTitle first">
         APP
