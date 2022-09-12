@@ -34,7 +34,7 @@
       </Widget>
     </b-container>
     <footer class="auth-footer">
-      2022 &copy; Tempo de atedimento - Made by <a href="https://connectplus.co.mz/">Connect Plus</a>
+      2022 &copy; Gestão de Consultorias - Made by <a href="https://connectbeta.co.mz/">Connect Plus</a>
     </footer>
   </div>
 </template>
