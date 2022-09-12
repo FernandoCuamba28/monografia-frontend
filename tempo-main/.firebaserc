@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "time-connect",
+    "time": "time-connect"
+  },
+  "targets": {}
+}
