@@ -556,7 +556,7 @@
               </b-form-group>
               <b-form-group
                 horizontal
-                label="Utilizadores:"
+                label="Consultores:"
                 :label-cols="3"
                 label-breakpoint="md"
                 label-for="Maritial State"

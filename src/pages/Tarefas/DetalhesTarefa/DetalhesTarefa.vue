@@ -5,7 +5,7 @@
       <small>{{tarefas.codigo}}</small>
       <div class="float-right" v-if="userRole=='Admin'">
         <b-button v-b-modal.responsavel variant="success" class="mr-3" size="sm"
-          ><i class="fa fa-plus"></i> Adicionar Responsavel</b-button>
+          ><i class="fa fa-plus"></i> Adicionar Consultor</b-button>
       </div>
     </h2>
      <div
